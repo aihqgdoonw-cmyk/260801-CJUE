@@ -15,7 +15,7 @@ if page == "홈":
     st.info("왼쪽 사이드바에서 '자기소개' 페이지를 선택하면 자기소개 템플릿을 볼 수 있어요.")
 else:
     st.title("👋 자기소개")
-    st.markdown("#### 안녕하세요!\n\n여기에 간단한 자기소개를 작성해보세요.")
+    st.markdown("#### 안녕하세요! 저를 소개할게요!!")
 
     st.subheader("기본 정보")
     st.markdown(
